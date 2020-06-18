@@ -1,2 +1,2 @@
-# question-answer
-It is a information retrieval based app
+# entity extraction web app
+It is an entity extraction app with multiple trained model
